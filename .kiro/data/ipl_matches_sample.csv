@@ -1,7 +1,0 @@
-match_id,date,season,city,venue,team1,team2,total_runs,winner
-1,2019-04-01,Mumbai,Mumbai,Wankhede Stadium,MI,CSK,180,MI
-2,2019-04-02,Chennai,Chennai,Chepauk,CSK,RCB,150,CSK
-3,2019-04-03,Delhi,Delhi,Feroz Shah Kotla,DD,KKR,200,KKR
-4,2019-04-04,Mumbai,Mumbai,Wankhede Stadium,MI,RCB,210,MI
-5,2019-04-05,Chennai,Chennai,Chepauk,CSK,KKR,175,CSK
-6,2019-04-06,Delhi,Delhi,Feroz Shah Kotla,DD,MI,190,MI
