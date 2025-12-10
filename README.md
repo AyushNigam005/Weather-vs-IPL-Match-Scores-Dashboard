@@ -21,6 +21,19 @@ and visualizes how **weather conditions** might relate to **match scores**.
 
 ---
 
+## 🚀 Features
+
+- Interactive **Streamlit dashboard**
+- IPL + Weather dataset **merged on city & date**
+- **Scatter Plot:** Temperature vs Total Runs
+- **Trend Charts:** Runs & Temperature over time
+- **Temperature Buckets:** Avg runs in Cool/Warm/Hot days
+- **Weather-Type Comparison:** Sunny vs Humid etc.
+- Filters for **Season, City, Teams, Temperature**
+- Automatically generated **Insights section**
+
+---
+
 ## 📂 Project Structure
 
 ```text
