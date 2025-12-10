@@ -1,0 +1,7 @@
+date,city,temp_c,humidity,weather_type
+2019-04-01,Mumbai,33,65,Sunny
+2019-04-02,Chennai,35,70,Sunny
+2019-04-03,Delhi,31,40,Clear
+2019-04-04,Mumbai,34,68,Humid
+2019-04-05,Chennai,32,72,Humid
+2019-04-06,Delhi,30,42,Clear
